@@ -76,6 +76,7 @@ body {
   padding: 10px;
   border-radius: 10px;
   color: white;
+  cursor: pointer;
 }
 
 a:active {
@@ -86,6 +87,7 @@ a:active {
   margin: 20px;
   color: hsl(224, 23%, 55%);
   font-weight: 700;
+  cursor: pointer;
 }
 
 .cancel:active {
